@@ -1,0 +1,11 @@
+.flex-container{
+    border: 7px dashed white;
+}
+.flex-item1{
+    border: 5px solid rgb(200, 140, 11);
+    text-align: center;
+    color: rgb(255, 191, 0);
+}
+.img1{
+    border: 6px dashed rgb(19, 255, 251);
+}
